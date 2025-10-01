@@ -110,7 +110,6 @@ class MyCalc extends WindowAdapter implements ActionListener {
         f.add(bdiv);
         f.add(bmod);
         f.add(bcalc);
-
         f.add(bclr);
         f.add(bpts);
         f.add(bneg);
